@@ -1,0 +1,4 @@
+restricted-regions:
+  - "bezelek"
+  - "bezelek1"
+removal-message: "&cElytra usunieta cwelu"

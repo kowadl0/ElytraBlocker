@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bezelek">
+    <output-path>$PROJECT_DIR$/out/artifacts/bezelek</output-path>
+    <root id="archive" name="bezelek.jar">
+      <element id="module-output" name="bezelek" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
